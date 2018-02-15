@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioVideoNMIT</string>
+    <string name="title_activity_video">Playing Video</string>
+    <string name="title_activity_audio">Audio Activity</string>
+</resources>
